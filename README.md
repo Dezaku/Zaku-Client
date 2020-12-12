@@ -2,7 +2,7 @@
 
 This client is not approved by devs, but is still not going to harm your computer.
 
-#Shortcuts
+# Shortcuts
 
 F1 - Load main menu
 
